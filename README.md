@@ -28,7 +28,6 @@
 </div>
 <h3>Production</h3>
 <div>
-    <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat-sqaure&logo=amazonAWS&logoColor=white">
     <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-sqaure&logo=amazonEC2&logoColor=white">
     <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-sqaure&logo=amazonS3&logoColor=white">
     <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat-sqaure&logo=amazonRDS&logoColor=white">
