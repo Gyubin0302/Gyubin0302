@@ -36,9 +36,10 @@
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-sqaure&logo=Jenkins&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-sqaure&logo=docker&logoColor=white">
 </div>
+
 <h2>💻 Git status</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbsks&hide=css,html&layout=compactx)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbsks&exclude_repo=Gyubin0302.github.io,ReactJS,ios-project,ios,Firebase,nine,majinEx)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbsks&show_icons=true)
 
