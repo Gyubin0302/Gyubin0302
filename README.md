@@ -22,7 +22,7 @@
 <h3>DataBase</h3>
 <div>
     <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-sqaure&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/Maria-442e2e?style=flat-sqaure&logo=mariadb&logoColor=white">
+    <img src="https://img.shields.io/badge/MariaDB-442e2e?style=flat-sqaure&logo=mariadb&logoColor=white">
     <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-sqaure&logo=redis&logoColor=white">
     <!-- <img src="https://img.shields.io/badge/Mongo%20DB-47A248?style=flat-sqaure&logo=mongoDb&logoColor=white"> -->
 </div>
