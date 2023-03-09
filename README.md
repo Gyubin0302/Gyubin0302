@@ -38,9 +38,9 @@
 </div>
 <h2>💻 Git status</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyubin0302&hide=css,html&layout=compactx)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbsks&hide=css,html&layout=compactx)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyubin0302&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbsks&show_icons=true)
 
 <!--
 **Gyubin0302/Gyubin0302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
