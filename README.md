@@ -36,7 +36,13 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-sqaure&logo=docker&logoColor=white">
 </div>
 
-<h2>💻 Git status</h2>
+
+
+    
+
+
+
+<h2> <img src="https://user-images.githubusercontent.com/67041069/224287320-700fc354-20d9-4f6d-9c88-93d174c52a46.svg" width="24px" height="24px"> Git status</h2>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbsks&exclude_repo=Gyubin0302.github.io,ReactJS,ios-project,ios,Firebase,nine,majinEx) -->
 
