@@ -1,4 +1,4 @@
-<h2>👩‍💻 Skills</h2>
+<h2>⚒ Skills</h2>
 <h3>FrontEnd</h3>
 <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?&style=flat-square&logo=html5&logoColor=white">
