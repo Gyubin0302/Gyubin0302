@@ -45,4 +45,4 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbsks&exclude_repo=Gyubin0302.github.io,ReactJS,ios-project,ios,Firebase,nine,majinEx) -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbsks&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats-eta-ecru.vercel.app/api?username=rbsks&show_icons=true)
