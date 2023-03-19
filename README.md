@@ -43,6 +43,6 @@
 
 <h2> <img src="https://user-images.githubusercontent.com/67041069/224287320-700fc354-20d9-4f6d-9c88-93d174c52a46.svg" width="24px" height="24px"> Git status</h2>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbsks&exclude_repo=Gyubin0302.github.io,ReactJS,ios-project,ios,Firebase,nine,majinEx) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbsks&exclude_repo=Gyubin0302.github.io,ReactJS,ios-project,ios,Firebase,nine,majinEx)
 
 ![Anurag's GitHub stats](https://github-readme-stats-eta-ecru.vercel.app/api?username=rbsks&show_icons=true)
