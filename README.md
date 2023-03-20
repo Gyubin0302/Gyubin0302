@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Json%20Web%20Token-442e2e?style=flat-sqaure&logo=jSONWebTokens&logoColor=white">
     <img src="https://img.shields.io/badge/OAuth2-EC1C24?style=flat-sqaure&logo=Authy&logoColor=white">
     <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-sqaure&logo=hibernate&logoColor=white">
-    <img src="https://img.shields.io/badge/Querydsl%20JPA-5d9bb9?style=flat-sqaure&logo=ApacheECharts&logoColor=white">
+    <img src="https://img.shields.io/badge/Querydsl--JPA-5d9bb9?style=flat-sqaure&logo=ApacheECharts&logoColor=white">
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-sqaure&logo=swagger&logoColor=white">
     <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-sqaure&logo=rabbitMq&logoColor=white">
 </div>
