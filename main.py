@@ -59,7 +59,6 @@ markdown_text = """
 
 <h2>📒Blog status</h2>
 
-👍최근 블로그 글<br>
 """
 
 readme_text = f"{markdown_text}{latest_blog_post_list}"
