@@ -16,12 +16,14 @@ for idx, feed in enumerate(rss_feed['entries']):
     latest_blog_post_list += f"[{feed_date.tm_year}/{feed_date.tm_mon}/{feed_date.tm_mday} - {feed['title']}]({feed['link']}) <br>\n"
     
 markdown_text = """
+<h2>⚙️Skils</h2>
 <section>
 </div>
     <h3>BackEnd</h3>
 <div>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=coffeeScript&logoColor=white">
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springBoot&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring%20REST%20Doc-6DB33F?style=flat-square&logo=springRestDoc&logoColor=white">
     <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-sqaure&logo=springSecurity&logoColor=white">
     <img src="https://img.shields.io/badge/Spring%20Batch-6DB33F?style=flat-sqaure&logo=bookStack&logoColor=white">
     <img src="https://img.shields.io/badge/Json%20Web%20Token-442e2e?style=flat-sqaure&logo=jSONWebTokens&logoColor=white">
@@ -51,8 +53,13 @@ markdown_text = """
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-sqaure&logo=docker&logoColor=white">
 </div>
 </section>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbsks&show_icons=true&theme=radical)<br>
-💡최근 블로그 글<br>
+<h2>🧱Git status</h2>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbsks&show_icons=true&theme=default)<br>
+
+<h2>📒Blog status</h2>
+
+👍최근 블로그 글<br>
 """
 
 readme_text = f"{markdown_text}{latest_blog_post_list}"
