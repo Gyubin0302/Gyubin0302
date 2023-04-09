@@ -41,6 +41,8 @@
 
 <h2>📒Blog status</h2>
 
+📖[규난 블로그 보러 가기](https://rbsks.tistory.com/)
+
 [2023.4.2 -  Spring REST Doc 적용기](https://rbsks.tistory.com/46) <br>
 [2023.4.2 -  스프링의 템플릿/콜백 패턴](https://rbsks.tistory.com/45) <br>
 [2023.3.26 -  Spring - 테스트와 TDD](https://rbsks.tistory.com/44) <br>
