@@ -23,7 +23,7 @@ markdown_text = """
 <div>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=coffeeScript&logoColor=white">
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springBoot&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring%20REST%20Doc-6DB33F?style=flat-square&logo=springRestDoc&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring%20REST%20Doc-6DB33F?style=flat-square&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-sqaure&logo=springSecurity&logoColor=white">
     <img src="https://img.shields.io/badge/Spring%20Batch-6DB33F?style=flat-sqaure&logo=bookStack&logoColor=white">
     <img src="https://img.shields.io/badge/Json%20Web%20Token-442e2e?style=flat-sqaure&logo=jSONWebTokens&logoColor=white">
