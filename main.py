@@ -58,6 +58,9 @@ markdown_text = """
 
 <h2>📒Blog status</h2>
 
+📖[규난 블로그 보러 가기](https://rbsks.tistory.com/)
+
+
 """
 
 readme_text = f"{markdown_text}{latest_blog_post_list}"
