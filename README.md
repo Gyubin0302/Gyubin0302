@@ -1,8 +1,7 @@
 
 <h2>⚙️Skils</h2>
 <section>
-</div>
-    <h3>BackEnd</h3>
+<h3>BackEnd</h3>
 <div>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-sqaure&logo=coffeeScript&logoColor=white">
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-sqaure&logo=springBoot&logoColor=white">
