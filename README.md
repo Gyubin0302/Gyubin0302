@@ -42,9 +42,9 @@
 📖[규난 블로그 보러 가기](https://rbsks.tistory.com/)
 
 
+[2023.4.15 -  SpringBoot 응답 데이터 핸들링](https://rbsks.tistory.com/49) <br>
 [2023.4.10 -  컨트롤러 단위 테스트시 모든 요청에 대한 공통 속성 적용하기](https://rbsks.tistory.com/48) <br>
 [2023.4.9 -  예외와 예외 처리 방법](https://rbsks.tistory.com/47) <br>
 [2023.4.2 -  Spring REST Doc 적용기](https://rbsks.tistory.com/46) <br>
 [2023.4.2 -  스프링의 템플릿/콜백 패턴](https://rbsks.tistory.com/45) <br>
 [2023.3.26 -  Spring - 테스트와 TDD](https://rbsks.tistory.com/44) <br>
-[2023.3.21 -  Spring - 오브젝트와 의존관계(스프링의 IoC와 DI)](https://rbsks.tistory.com/43) <br>
