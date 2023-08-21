@@ -9,8 +9,6 @@
     <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-sqaure&logo=springSecurity&logoColor=white">
     <!-- <img src="https://img.shields.io/badge/Spring%20Batch-6DB33F?style=flat-sqaure&logo=bookStack&logoColor=white"> -->
     <img src="https://img.shields.io/badge/Spring%20Data%20Jpa-6DB33F?style=flat-sqaure&logo=hibernate&logoColor=white">
-    <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-sqaure&logo=Junit5&logoColor=white">
-    <img src="https://img.shields.io/badge/Mockito-25A162?style=flat-sqaure&logo=&logoColor=white">
     <img src="https://img.shields.io/badge/QueryDsl-5d9bb9?style=flat-sqaure&logo=ApacheECharts&logoColor=white">
     <img src="https://img.shields.io/badge/Json%20Web%20Token-442e2e?style=flat-sqaure&logo=jSONWebTokens&logoColor=white">
     <img src="https://img.shields.io/badge/OAuth2-EC1C24?style=flat-sqaure&logo=Authy&logoColor=white">
