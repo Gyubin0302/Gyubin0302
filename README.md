@@ -42,9 +42,9 @@
 📖[규난 블로그 보러 가기](https://rbsks.tistory.com/)
 
 
+[2023.9.13 -  자바의 신 - 정리해 봅시다](https://rbsks.tistory.com/56) <br>
 [2023.8.27 -  Facade Pattern 적용기](https://rbsks.tistory.com/55) <br>
 [2023.8.20 -  Stream](https://rbsks.tistory.com/54) <br>
 [2023.8.16 -  람다 표현식](https://rbsks.tistory.com/53) <br>
 [2023.8.6 -  Spring AOP - Advice, Pointcut](https://rbsks.tistory.com/52) <br>
 [2023.8.5 -  Spring AOP](https://rbsks.tistory.com/51) <br>
-[2023.6.24 -  스프링 부트로 메일 발송 기능 구현하기](https://rbsks.tistory.com/50) <br>
