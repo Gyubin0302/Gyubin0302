@@ -27,9 +27,9 @@ markdown_text = """
     <!-- <img src="https://img.shields.io/badge/Spring%20Batch-6DB33F?style=flat-sqaure&logo=bookStack&logoColor=white"> -->
     <img src="https://img.shields.io/badge/Spring%20Data%20Jpa-6DB33F?style=flat-sqaure&logo=hibernate&logoColor=white">
     <img src="https://img.shields.io/badge/QueryDsl-5d9bb9?style=flat-sqaure&logo=ApacheECharts&logoColor=white">
-    <img src="https://img.shields.io/badge/Json%20Web%20Token-442e2e?style=flat-sqaure&logo=jSONWebTokens&logoColor=white">
-    <img src="https://img.shields.io/badge/OAuth2-EC1C24?style=flat-sqaure&logo=Authy&logoColor=white">
-    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-sqaure&logo=rabbitMq&logoColor=white">
+    <!-- <img src="https://img.shields.io/badge/Json%20Web%20Token-442e2e?style=flat-sqaure&logo=jSONWebTokens&logoColor=white"> -->
+    <!-- <img src="https://img.shields.io/badge/OAuth2-EC1C24?style=flat-sqaure&logo=Authy&logoColor=white"> -->
+    <!-- <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-sqaure&logo=rabbitMq&logoColor=white"> -->
     <!-- <img src="https://img.shields.io/badge/Stomp-3b5c6b?style=flat-sqaure&logo=Lospec&logoColor=white"> -->
 </div>
 <h3>DataBase</h3>
@@ -41,7 +41,7 @@ markdown_text = """
 </div>
 <h3>Production</h3>
 <div>
-    <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat-sqaure&logo=amazonAWS&logoColor=white">
+    <!-- <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat-sqaure&logo=amazonAWS&logoColor=white"> -->
     <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-sqaure&logo=amazonEC2&logoColor=white">
     <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-sqaure&logo=amazonS3&logoColor=white">
     <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat-sqaure&logo=amazonRDS&logoColor=white">
