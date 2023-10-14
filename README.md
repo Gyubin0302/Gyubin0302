@@ -46,9 +46,9 @@
 📖[규난 블로그 보러 가기](https://rbsks.tistory.com/)
 
 
+[2023.10.14 -  Java Virtual Machine](https://rbsks.tistory.com/60) <br>
 [2023.10.9 -  Kafka 설치](https://rbsks.tistory.com/59) <br>
 [2023.10.8 -  KafKa란?](https://rbsks.tistory.com/58) <br>
 [2023.9.16 -  equals() 메서드와 hashCode() 메서드](https://rbsks.tistory.com/57) <br>
 [2023.8.27 -  Facade Pattern 적용기](https://rbsks.tistory.com/55) <br>
 [2023.8.20 -  Stream](https://rbsks.tistory.com/54) <br>
-[2023.8.16 -  람다 표현식](https://rbsks.tistory.com/53) <br>
