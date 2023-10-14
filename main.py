@@ -40,7 +40,7 @@ markdown_text = """
     <!-- <img src="https://img.shields.io/badge/Mongo%20DB-47A248?style=flat-sqaure&logo=mongoDb&logoColor=white"> -->
 </div>
 <!-- <h3>Production</h3> -->
-<!-- <div>
+<!-- <div> -->
     <!-- <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat-sqaure&logo=amazonAWS&logoColor=white"> -->
     <!-- <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-sqaure&logo=amazonEC2&logoColor=white"> -->
     <!-- <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-sqaure&logo=amazonS3&logoColor=white"> -->
@@ -48,7 +48,7 @@ markdown_text = """
     <!-- <img src="https://img.shields.io/badge/NGINX-009639?style=flat-sqaure&logo=nginx&logoColor=white"> -->
     <!-- <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-sqaure&logo=Jenkins&logoColor=white"> -->
     <!-- <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-sqaure&logo=docker&logoColor=white"> -->
-</div> -->
+<!-- </div> -->
 </section>
 <h2>🧱Git status</h2>
 
