@@ -6,10 +6,10 @@
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-sqaure&logo=coffeeScript&logoColor=white">
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-sqaure&logo=springBoot&logoColor=white">
     <img src="https://img.shields.io/badge/Spring%20REST%20Doc-6DB33F?style=flat-sqaure&logo=spring&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-sqaure&logo=springSecurity&logoColor=white">
+    <!-- <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-sqaure&logo=springSecurity&logoColor=white"> -->
     <!-- <img src="https://img.shields.io/badge/Spring%20Batch-6DB33F?style=flat-sqaure&logo=bookStack&logoColor=white"> -->
-    <img src="https://img.shields.io/badge/Spring%20Data%20Jpa-6DB33F?style=flat-sqaure&logo=hibernate&logoColor=white">
-    <img src="https://img.shields.io/badge/QueryDsl-5d9bb9?style=flat-sqaure&logo=ApacheECharts&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-sqaure&logo=hibernate&logoColor=white">
+    <img src="https://img.shields.io/badge/QueryDSL-5d9bb9?style=flat-sqaure&logo=ApacheECharts&logoColor=white">
     <!-- <img src="https://img.shields.io/badge/Json%20Web%20Token-442e2e?style=flat-sqaure&logo=jSONWebTokens&logoColor=white"> -->
     <!-- <img src="https://img.shields.io/badge/OAuth2-EC1C24?style=flat-sqaure&logo=Authy&logoColor=white"> -->
     <!-- <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-sqaure&logo=rabbitMq&logoColor=white"> -->
@@ -17,7 +17,7 @@
 </div>
 <h3>DataBase</h3>
 <div>
-    <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-sqaure&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-sqaure&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/MariaDB-1F305F?style=flat-sqaure&logo=mariadb&logoColor=white">
     <!-- <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-sqaure&logo=redis&logoColor=white"> -->
     <!-- <img src="https://img.shields.io/badge/Mongo%20DB-47A248?style=flat-sqaure&logo=mongoDb&logoColor=white"> -->
