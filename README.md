@@ -46,7 +46,7 @@
 📖[규난 블로그 보러 가기](https://rbsks.tistory.com/)
 
 
-[2023.10.24 -  Enum](https://rbsks.tistory.com/62) <br>
+[2023.10.24 -  자바 Enum 타입 속 모든 비밀: 정의, 컴파일러, 싱글톤](https://rbsks.tistory.com/62) <br>
 [2023.10.18 -  BigDecimal 사용 이유](https://rbsks.tistory.com/61) <br>
 [2023.10.14 -  Java Virtual Machine](https://rbsks.tistory.com/60) <br>
 [2023.10.9 -  Kafka 설치](https://rbsks.tistory.com/59) <br>
