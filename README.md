@@ -41,14 +41,14 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rbsks0302)](https://solved.ac/rbsks0302/)
 
-<h2>📒Blog status</h2>
+<!-- <h2>📒Blog status</h2> -->
 
-📖[규난 블로그 보러 가기](https://rbsks.tistory.com/)
+<!-- 📖[규난 블로그 보러 가기](https://rbsks.tistory.com/) -->
 
 
-[2023.11.5 -  java에서 사용하는 Hash Collision 해결 방법](https://rbsks.tistory.com/63) <br>
-[2023.10.24 -  자바 Enum 타입 속 모든 비밀: 정의, 컴파일러, 싱글톤](https://rbsks.tistory.com/62) <br>
-[2023.10.18 -  BigDecimal 사용 이유](https://rbsks.tistory.com/61) <br>
-[2023.10.14 -  Java Virtual Machine](https://rbsks.tistory.com/60) <br>
-[2023.10.9 -  Kafka 설치](https://rbsks.tistory.com/59) <br>
-[2023.10.8 -  KafKa란?](https://rbsks.tistory.com/58) <br>
+<!-- [2023.11.5 -  java에서 사용하는 Hash Collision 해결 방법](https://rbsks.tistory.com/63) <br> -->
+<!-- [2023.10.24 -  자바 Enum 타입 속 모든 비밀: 정의, 컴파일러, 싱글톤](https://rbsks.tistory.com/62) <br> -->
+<!-- [2023.10.18 -  BigDecimal 사용 이유](https://rbsks.tistory.com/61) <br> -->
+<!-- [2023.10.14 -  Java Virtual Machine](https://rbsks.tistory.com/60) <br> -->
+<!-- [2023.10.9 -  Kafka 설치](https://rbsks.tistory.com/59) <br> -->
+<!-- [2023.10.8 -  KafKa란?](https://rbsks.tistory.com/58) <br> -->
