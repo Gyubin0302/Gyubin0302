@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-sqaure&logo=coffeeScript&logoColor=white">
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-sqaure&logo=springBoot&logoColor=white">
     <img src="https://img.shields.io/badge/Spring%20REST%20Doc-6DB33F?style=flat-sqaure&logo=spring&logoColor=white">
-    <!-- <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-sqaure&logo=springSecurity&logoColor=white"> -->
+    <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-sqaure&logo=springSecurity&logoColor=white">
     <img src="https://img.shields.io/badge/Spring%20Batch-6DB33F?style=flat-sqaure&logo=bookStack&logoColor=white">
     <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-sqaure&logo=hibernate&logoColor=white">
     <img src="https://img.shields.io/badge/QueryDSL-5d9bb9?style=flat-sqaure&logo=ApacheECharts&logoColor=white">
