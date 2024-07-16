@@ -33,9 +33,9 @@
     <!-- <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-sqaure&logo=docker&logoColor=white"> -->
 <!-- </div> -->
 </section>
-<h2>🧱Git status</h2>
+<!-- <h2>🧱Git status</h2> -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbsks&show_icons=true&theme=default)<br>
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbsks&show_icons=true&theme=default)<br> -->
 
 <!-- <h2>🖌 PS</h2> -->
 
