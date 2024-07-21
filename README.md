@@ -1,5 +1,5 @@
 
-<h2>⚙️Skill</h2>
+<h2>⚙️Skills</h2>
 <section>
 <h3>BackEnd</h3>
 <div>
